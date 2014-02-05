@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
 		
 		Log.v("tag", "this is a test");
 		Log.v("tag", "And another log statement");
+		Log.v("tag", "Just testing something");
 	}
 
 	@Override
